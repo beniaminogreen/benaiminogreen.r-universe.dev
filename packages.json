@@ -6,5 +6,9 @@
     {
         "package": "cragg",
         "url": "https://github.com/beniaminogreen/cragg"
+    }, 
+    {
+        "package": "sparsepolicytree",
+        "url": "https://github.com/Yale-Medicaid/sparsepolicytree"
     }
 ]
