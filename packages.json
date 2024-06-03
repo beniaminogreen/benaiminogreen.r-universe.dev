@@ -9,6 +9,10 @@
     }, 
     {
         "package": "sparsepolicytree",
-        "url": "https://github.com/Yale-Medicaid/sparsepolicytree"
-    }
+        "url": "https://github.com/beniaminogreen/sparsepolicytree"
+    }, 
+    {
+        "package": "workwme",
+        "url": "https://github.com/beniaminogreen/heroh"
+    }   
 ]
